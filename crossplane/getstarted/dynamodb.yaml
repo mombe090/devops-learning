@@ -3,7 +3,7 @@ kind: Table
 metadata:
   name: crossplane-test-table
   labels:
-    l8rn-devops: true
+    l8rn-devops: "yes"
 spec:
   forProvider:
     attribute:
