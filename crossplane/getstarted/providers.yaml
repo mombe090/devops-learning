@@ -12,4 +12,4 @@ metadata:
   name: provider-aws-dynamodb
   namespace: crossplane-system
 spec:
-  package: xpkg.upbound.io/upbound/provider-aws-dynamodb:v0.37.0
+  package: xpkg.upbound.io/upbound/provider-aws-dynamodb:v0.44.0
